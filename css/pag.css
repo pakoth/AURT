@@ -1,0 +1,36 @@
+#consultas{
+	width:1000px;
+	height: 600px;
+	background: #F4ECF7;
+	margin-left: 100px;
+	padding-right: 100px;
+}
+header h1{
+	font-size: 50px;
+}
+h1{
+font-size: 50px;	
+}
+
+table {    
+
+	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+    font-size: 30px;   
+	margin-left: 360px;
+        width: 480px; 
+        text-align: left;
+        margin-top: 10px;
+        padding: 100px; 
+           border-collapse: collapse; 
+	color:black;}
+
+th {     font-size: 13px;     font-weight: normal;     padding: 8px;     background: #b9c9fe;
+    border-top: 4px solid #aabcfe;    border-bottom: 1px solid #fff; color: black; }
+
+td {    padding: 8px;     background: #e8edff;     border-bottom: 1px solid #fff;
+    color: #669;    border-top: 1px solid transparent; }
+
+tr:hover td { background: #d0dafd; color: #339; }
+.ob{
+	margin-top: 10px;
+}
